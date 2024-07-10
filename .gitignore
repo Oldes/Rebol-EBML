@@ -4,6 +4,7 @@
 !/.github
 !/.editorconfig
 !*.nest
+!*.reb
 !/src
 !/assets
 !/README.md
