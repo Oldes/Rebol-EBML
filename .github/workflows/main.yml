@@ -5,7 +5,7 @@ on:
     branches: [ master ]
     paths:
       - ci-test.r3
-      - **.reb
+      - *.reb
 
   pull_request:
     branches: [ master ]
