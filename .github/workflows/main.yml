@@ -5,7 +5,7 @@ on:
     branches: [ master ]
     paths:
       - ci-test.r3
-      - *.reb
+      - ebml.reb
 
   pull_request:
     branches: [ master ]
