@@ -1,5 +1,8 @@
+[![rebol-ebml](https://github.com/user-attachments/assets/ef3e8851-f1e1-439d-8df3-8e592dffa18a)](https://github.com/Oldes/Rebol-EBML)
+
 [![Rebol-EBML CI](https://github.com/Oldes/Rebol-EBML/actions/workflows/main.yml/badge.svg)](https://github.com/Oldes/Rebol-EBML/actions/workflows/main.yml)
 [![Gitter](https://badges.gitter.im/rebol3/community.svg)](https://app.gitter.im/#/room/#Rebol3:gitter.im)
+[![Zulip](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://rebol.zulipchat.com/)
 
 # Rebol/EBML
 
